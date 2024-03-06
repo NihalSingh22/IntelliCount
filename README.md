@@ -4,15 +4,15 @@ IntelliCount is a sophisticated OpenCV-based system designed to analyze video fe
 
 ## Background Process
 
-![Background Elimination Process](<img width="1278" alt="Screen Shot 2024-03-04 at 8 16 10 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/55206e8d-1677-4e4f-a237-0f6f965a7ee3">)
+<img width="1278" alt="Screen Shot 2024-03-04 at 8 16 10 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/91163daf-ecd3-4a18-a81c-80e54fb87877">
 
 The above image illustrates the initial stage of the vehicle detection process where the background is eliminated, isolating moving vehicles. This is a crucial step in ensuring the subsequent steps of vehicle detection and counting are accurate and efficient.
 
 ## Final Output
 
 
-![Final Counting - Example 1](<img width="1268" alt="Screen Shot 2024-03-05 at 7 16 58 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/e20adfdd-4baa-44fe-83aa-2e5bcb036f23">)
-![Final Counting - Example 2](<img width="1253" alt="Screen Shot 2024-03-05 at 7 17 31 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/6f162888-57f3-4afc-b0de-b5d3a06ce76f">)
+<img width="1268" alt="Screen Shot 2024-03-05 at 7 16 58 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/47ae8768-98c8-4747-8576-6e9e7f0fdaba">
+<img width="1253" alt="Screen Shot 2024-03-05 at 7 17 31 PM" src="https://github.com/NihalSingh22/IntelliCount/assets/89406047/6f162888-57f3-4afc-b0de-b5d3a06ce76f">
 
 
 As seen in the final output images above, IntelliCount overlays the detected vehicles with bounding boxes, assigns a unique identifier to each, and displays a real-time count. This output showcases the system's accuracy in various traffic conditions.
