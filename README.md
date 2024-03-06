@@ -55,7 +55,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 Nihal Singh - nihalsinghdxb@gmail.com
 
-Project Link: [https://github.com/YOUR_GITHUB/IntelliCount](https://github.com/NihalSingh22/IntelliCount)https://github.com/NihalSingh22/IntelliCount
+Project Link: https://github.com/NihalSingh22/IntelliCount
 
 
 
